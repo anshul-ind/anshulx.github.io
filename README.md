@@ -4,6 +4,8 @@ A modern, responsive portfolio website built with Next.js 15, TypeScript, Tailwi
 
 ![Portfolio Preview](/public/meta/hero.png)
 
+here is demo link: anshulx.me
+<img width="1899" height="994" alt="Screenshot 2026-09-27 185441" src="https://github.com/user-attachments/assets/a28500d6-dec6-45c5-9b28-97e0da21c571" />
 
 ## Features
 
